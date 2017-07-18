@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RuntimePermissions</string>
+    <string name="get_camera_permission">Get Camera Permission</string>
+    <string name="title">Android ATC Lesson 3 \n\n Runtime Permissions</string>
+</resources>
